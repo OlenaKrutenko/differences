@@ -1,0 +1,7 @@
+1)Id
+2)Summary
+3)Step to Reproduce
+4)Actual Result
+5)Expected Result
+6)Severity
+7)Priority
